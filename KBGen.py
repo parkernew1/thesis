@@ -1,3 +1,5 @@
+#Final program for simulating motion in the Klein bottle
+
 import pygame
 import math
 pygame.init() #hello
