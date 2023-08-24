@@ -1,4 +1,4 @@
-#Final program for simulating motion in the torus
+#Final program for simulating motion in the torus.
 
 import pygame
 import math

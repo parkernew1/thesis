@@ -1,4 +1,4 @@
-#Final program for simulating motion in the Klein bottle
+#Final program for simulating motion in the Klein bottle.
 
 import pygame
 import math

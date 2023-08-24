@@ -1,4 +1,4 @@
-#Final program for simulating motion in infinite, flat plane
+#Final program for simulating motion in infinite, flat plane.
 
 import pygame
 import math
